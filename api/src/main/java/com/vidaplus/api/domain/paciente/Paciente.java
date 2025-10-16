@@ -1,5 +1,6 @@
 package com.vidaplus.api.domain.paciente;
 
+import com.vidaplus.api.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
