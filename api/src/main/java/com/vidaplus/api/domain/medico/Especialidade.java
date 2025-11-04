@@ -1,0 +1,23 @@
+package com.vidaplus.api.domain.medico;
+
+public enum Especialidade {
+
+    CLINICA,
+    ORTOPEDIA,
+    CARDIOLOGIA,
+    OFTALMOLOGIA,
+    GINECOLOGIA,
+    OBSTETRICIA,
+    UROLOGIA,
+    PEDIATRIA,
+    NEUROLOGIA,
+    PSIQUIATRIA,
+    PNEUMOLOGIA,
+    GASTROENTEROLOGIA,
+    ENDOCRINOLOGIA,
+    HEMATOLOGIA,
+    RADIOLOGIA,
+    ONCOLOGIA,
+    DERMATOLOGIA;
+
+}
